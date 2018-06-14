@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\IlguSkSuma\IlguSkSuma\bin\Debug\IlguSkSuma.exe.config
+C:\Users\user\source\repos\IlguSkSuma\IlguSkSuma\bin\Debug\IlguSkSuma.exe
+C:\Users\user\source\repos\IlguSkSuma\IlguSkSuma\bin\Debug\IlguSkSuma.pdb
+C:\Users\user\source\repos\IlguSkSuma\IlguSkSuma\obj\Debug\IlguSkSuma.csprojAssemblyReference.cache
+C:\Users\user\source\repos\IlguSkSuma\IlguSkSuma\obj\Debug\IlguSkSuma.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IlguSkSuma\IlguSkSuma\obj\Debug\IlguSkSuma.exe
+C:\Users\user\source\repos\IlguSkSuma\IlguSkSuma\obj\Debug\IlguSkSuma.pdb
+C:\Users\GED\Desktop\180614 namu darbai\IlguSkSuma\IlguSkSuma\bin\Debug\IlguSkSuma.exe.config
+C:\Users\GED\Desktop\180614 namu darbai\IlguSkSuma\IlguSkSuma\bin\Debug\IlguSkSuma.exe
+C:\Users\GED\Desktop\180614 namu darbai\IlguSkSuma\IlguSkSuma\bin\Debug\IlguSkSuma.pdb
+C:\Users\GED\Desktop\180614 namu darbai\IlguSkSuma\IlguSkSuma\obj\Debug\IlguSkSuma.csprojResolveAssemblyReference.cache
+C:\Users\GED\Desktop\180614 namu darbai\IlguSkSuma\IlguSkSuma\obj\Debug\IlguSkSuma.csproj.CoreCompileInputs.cache
+C:\Users\GED\Desktop\180614 namu darbai\IlguSkSuma\IlguSkSuma\obj\Debug\IlguSkSuma.exe
+C:\Users\GED\Desktop\180614 namu darbai\IlguSkSuma\IlguSkSuma\obj\Debug\IlguSkSuma.pdb
